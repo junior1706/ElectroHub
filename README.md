@@ -1,7 +1,7 @@
 # ElectroHub
 
 ## Screenshot
-![Screenshot](ui-ux.png)
+![Screenshot](ui-ux.jpg)
 
 ## Tema
 E Commerce
